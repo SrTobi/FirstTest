@@ -1,4 +1,4 @@
 #!/bin/sh
 
 echo First
-sleep 1
+sleep 6
