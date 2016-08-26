@@ -1,3 +1,4 @@
 #!/bin/sh
 
-sleep 3.3
+echo First
+sleep 1
