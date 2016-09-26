@@ -4,4 +4,5 @@ echo "Done!!!"
 echo "Test!"
 echo "what?"
 echo "naaa!!"
-echo "sleep 4" > run.sh
+echo "echo Test1" >> run.sh
+echo "echo Test2" >> run.sh
