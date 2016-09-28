@@ -5,5 +5,6 @@ echo "Test!"
 echo "what?"
 echo "naaa!!"
 echo "test"
+sleep 1
 echo "echo Test1" >> run.sh
 echo "echo Test2" >> run.sh
